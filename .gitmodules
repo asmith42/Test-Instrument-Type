@@ -1,0 +1,6 @@
+[submodule "TEST_SUBDIR"]
+	path = TEST_SUBDIR
+	url = git://github.com/asmith42/Test
+[submodule "TEST2_SUBDIR"]
+	path = TEST2_SUBDIR
+	url = git://github.com/asmith42/test2
